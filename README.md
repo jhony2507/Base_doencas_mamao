@@ -32,7 +32,18 @@ Computer vision, especially approaches based on deep learning, has rapidly advan
   * Pinta_Preta		       
 
 - Size file   : ~1gb
-- Terms of use:
+### License
+- The Papaya dataset is made available free of charge to academic and non-academic entities, such as research, teaching, scientific publications or personal experimentation, on a non-commercial basis. The use of this dataset, in whole or in part, is expressly prohibited for commercial purposes.
+Permission is granted to use the data as long as you agree to our license terms:
+
+That the dataset is made available "AS IS" without express or implied warranty. In our work, every effort has been made to ensure maximum accuracy, however, we do not accept any responsibility for errors or omissions.
+
+That you include a reference to the Papaya Dataset in any work that makes use of the dataset, in whole or in part.
+
+That you do not distribute this dataset or modified versions. It is permitted to distribute derivative works as long as they are abstract representations of this dataset (such as models trained on it or additional annotations that do not directly include any of our data).
+
+That you may not use the dataset or any derivative work for commercial purposes such as, for example, licensing or selling the data, creating commercial applications with trained weights with the model, or otherwise using the data for the purpose of obtaining a commercial gain.
+
 Given the details you give in comments, we can consider that your software would most likely be a derivative of the original research-only / non-commercial data.
 Then the question is what the license has to say about derivatives? Does it even allow them? If it does not explicitly allow them, you are most likely not authorized from publishing any software based on this data, under any license.
 If derivatives are allowed, under what conditions? In the case of a CC-BY-SA-NC license, you would have to keep the license for any derivative that you distribute, and this is not an open source license. But it could also be more lax, in which case maybe an open source license would be allowed.
