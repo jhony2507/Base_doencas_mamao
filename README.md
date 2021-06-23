@@ -26,7 +26,7 @@ Our template is a customization of the original Yolov4 described at https://gith
 
 ### DataSet Papaya
 -  Description: Complete base composed of 17964 images with the following class distributions:
-![Screenshot](tabela classes.png)
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/tabela%20classes.png height=300 e width=450>
 
 
 - Size file   : ~1gb
@@ -58,7 +58,8 @@ https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sha
 
 ## Resultados
 
-https://github.com/jhony2507/Base_doencas_mamao/blob/main/grafico%20classifier.png
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/tabela%20grafico classifier.png height=300 e width=450>
+
 
 
 * F1-score  = 0.81
