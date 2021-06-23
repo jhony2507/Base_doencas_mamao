@@ -58,8 +58,8 @@ https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sha
 
 ## Resultados
 
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/tabela%20grafico classifier.png height=300 e width=450>
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/grafico%20classifier.png height=300 e width=450>
 
 
 
-* F1-score  = 0.81
+* Overall F1-score = 0.81
