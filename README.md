@@ -58,7 +58,7 @@ https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sha
 
 ## Resultados
 
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/grafico%20classifier.png height=300 e width=450>
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/grafico%20classifier.png height=400 e width=650>
 
 
 
