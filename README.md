@@ -13,7 +13,7 @@ Computer vision, especially approaches based on deep learning, has rapidly advan
 ### Neural network model and examples for inference
 Download the folder below, it has all the files needed for testing with the model.
 To download the complete dataset, see the Dataset Papaya item.
-
+https://drive.google.com/drive/folders/13A2Dj1Fj8B4aKiAqn1xvUWiKRBBeE15P?usp=sharing
 
 
 #### inference
