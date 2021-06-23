@@ -15,6 +15,7 @@ Download the folder below, it has all the files needed for testing with the mode
 To download the complete dataset, see the Dataset Papaya item.
 https://drive.google.com/drive/folders/13A2Dj1Fj8B4aKiAqn1xvUWiKRBBeE15P?usp=sharing
 
+Our template is a customization of the original Yolov4 described at https://github.com/AlexeyAB/darknet
 
 #### inference
       sh test.sh <nomeImage)
