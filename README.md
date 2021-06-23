@@ -26,6 +26,7 @@ Our template is a customization of the original Yolov4 described at https://gith
 
 ### DataSet Papaya
 -  Description: Complete base composed of 17964 images with the following class distributions:
+![alt text](http:/tabela classes.png)
 
 
 - Size file   : ~1gb
