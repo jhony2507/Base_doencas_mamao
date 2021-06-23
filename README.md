@@ -42,11 +42,6 @@ That you do not distribute this dataset or modified versions. It is permitted to
 
 That you may not use the dataset or any derivative work for commercial purposes such as, for example, licensing or selling the data, creating commercial applications with trained weights with the model, or otherwise using the data for the purpose of obtaining a commercial gain.
 
-Given the details you give in comments, we can consider that your software would most likely be a derivative of the original research-only / non-commercial data.
-Then the question is what the license has to say about derivatives? Does it even allow them? If it does not explicitly allow them, you are most likely not authorized from publishing any software based on this data, under any license.
-If derivatives are allowed, under what conditions? In the case of a CC-BY-SA-NC license, you would have to keep the license for any derivative that you distribute, and this is not an open source license. But it could also be more lax, in which case maybe an open source license would be allowed.
-In conclusion: it all boils down to exactly what is written about derivative works in the license.
-
 Send an email to artsoft.lucas@terra.com.br informing:
 * Name:
 * Office:
