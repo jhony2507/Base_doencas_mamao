@@ -53,7 +53,7 @@ Send an email to artsoft.lucas@terra.com.br informing:
 * Linked institution:
 * Search where the dataset will be used.
 
-#### sample images for inference testing
+### Sample images for inference testing
 https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sharing
 
 ## Resultados
