@@ -11,6 +11,10 @@ Computer vision, especially approaches based on deep learning, has rapidly advan
 
 
 ### Neural network model and examples for inference
+Download the folder below, it has all the files needed for testing with the model.
+To download the complete dataset, see the Dataset Papaya item.
+
+
 
 #### inference
       sh test.sh <nomeImage)
@@ -19,7 +23,7 @@ Computer vision, especially approaches based on deep learning, has rapidly advan
      ./darknet detector train data/obj.data cfg/yolov4.cfg papaya.weights -map
 
 
-### DataSet Bcompleta
+### DataSet Papaya
 -  Description: Complete base composed of 17964 images with the following class distributions:
 
   * FRUTO_SEM_DOENÇA 	  
@@ -60,6 +64,5 @@ https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sha
 
 ## Resultados
 - [Gráfico mAP DataSet B1024](results/chart.png)
-* precision = 0.83, 
-* Recall    = 0.91, 
+
 * F1-score  = 0.81
