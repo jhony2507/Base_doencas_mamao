@@ -27,14 +27,6 @@ Our template is a customization of the original Yolov4 described at https://gith
 ### DataSet Papaya
 -  Description: Complete base composed of 17964 images with the following class distributions:
 
-  * FRUTO_SEM_DOENÇA 	  
-  * Antracnose		        
-  * Phytoftora		        
-  * Dano_Mecânico		     
-  * Mancha_Chocolate	   
-  * Meleira			          
-  * Mancha_Fisiologica 
-  * Pinta_Preta		       
 
 - Size file   : ~1gb
 ### License
@@ -64,6 +56,8 @@ Send an email to artsoft.lucas@terra.com.br informing:
 https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sharing
 
 ## Resultados
-- [Gráfico mAP DataSet B1024](results/chart.png)
+
+https://github.com/jhony2507/Base_doencas_mamao/blob/main/grafico%20classifier.png
+
 
 * F1-score  = 0.81
