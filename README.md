@@ -9,8 +9,11 @@ Computer vision, especially approaches based on deep learning, has rapidly advan
 - Cudnn 8.0
 - OpenCV 4.5
 
+
+### Instalação
+
+
 ### DataSet Bcompleta
-- Localização : [Base de dados Sisfrutos-Papaya](https://drive.google.com/drive/folders/10fuLRYK2NFqAo6TMYYjl8ulD7OdlVvZ5)
 - Descrição   : Base completa composta por 17964 imagens com a seguinte distribuições de classes:
   * FRUTO_SEM_DOENÇA 	  
   * Antracnose		        
@@ -21,17 +24,27 @@ Computer vision, especially approaches based on deep learning, has rapidly advan
   * Mancha_Fisiologica 
   * Pinta_Preta		       
 
+- Localizaççao  :https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sharing
+- Termos de uso :
+Given the details you give in comments, we can consider that your software would most likely be a derivative of the original research-only / non-commercial data.
+Then the question is what the license has to say about derivatives? Does it even allow them? If it does not explicitly allow them, you are most likely not authorized from publishing any software based on this data, under any license.
+If derivatives are allowed, under what conditions? In the case of a CC-BY-SA-NC license, you would have to keep the license for any derivative that you distribute, and this is not an open source license. But it could also be more lax, in which case maybe an open source license would be allowed.
+In conclusion: it all boils down to exactly what is written about derivative works in the license.
+
+#### sample images for inference testing
+https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_?usp=sharing
+
 ## Treinar / Testar modelo
 - Hardware utilizado: Gpu Nvidia 1060 com 6gb de memória
 - Tempo de Treinamento: ~ 74h
   
-  ## Treinar usando pesos pré-treinados
+## Treinar usando pesos pré-treinados 
        ./darknet detector train data/obj.data cfg/yolov4.cfg papaya.weights -map
        
-  ## Treinar apartir do zero (não recomendado)
+## Treinar apartir do zero (não recomendado)
        ./darknet detector train data/obj.data cfg/yolov4.cfg yolov4.conv.137 -map
        
-  ## Testar imagem
+## Testar imagem
       ./darknet detector test <name_image> cfg/yolov4.cfg papaya.weights
 
 ## Resultados
