@@ -74,8 +74,9 @@ Send an email to artsoft.lucas@terra.com.br informing:
 - Linked institution:
 - Search where the dataset will be used.
 
-[Sisfrutos](https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_)
+[Sisfrutos Dataset](https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_)
 
+[Samples for inference](https://drive.google.com/drive/folders/151dIcYDCCE-e-TZC2sTSLh2G0LEDvoe9)
 
 
 ## Resultados
