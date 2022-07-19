@@ -26,8 +26,20 @@ Our template is a customization of the original Yolov4 described at https://gith
 -  Description: Complete base composed of 19.899 images with the following class distributions:
 <img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/classes.png height=300 e width=450>
 
+### Annotations
 
-- Size file   : ~1gb
+#### Txt Format:
+ - Each image (.jpg) has its respective .txt file. For example, image TR00001-4.jpg is related to file TR00001-4.txt; 
+ - Each line of the .txt file describes an object that appears in the respective image; 
+ - The content of each line contains the following data:
+ -    <class> <x-center> <y-center> <width> <height>
+      
+The figure below shows an example of this annotation format:
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_TXT.png height=300 e width=450>
+      
+#### COCO Format      
+
+ - - Size file   : ~1gb
 ### License to use and download
 The Sisfrutos dataset is made available free of charge to academic and non-academic entities, such as research, teaching, scientific publications or personal experimentation, on a non-commercial basis. The use of this dataset, in whole or in part, is expressly prohibited for commercial purposes.
 Permission iLicense to use and downloads granted to use the data as long as you agree to our license terms:
