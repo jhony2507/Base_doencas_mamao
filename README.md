@@ -1,25 +1,5 @@
 # Deep-Learning Based Visual Fruit Inspection
-# (Under construction )
-#Computer vision, especially approaches based on
-2 deep learning, has rapidly advanced to provide solutions to
-3 problems in the most diverse domains. However, in the field
-4 of fruit production, this advance is still very modest, and one
-5 of the main reasons listed in the literature is the lack of
-6 large data sets of the desired domain that are in the public
-7 domain, which makes it difficult and expensive to conduct
-8 new studies. We created a dataset with the aim of leveraging
-9 state-of-the-art disease detection in papaya fruits. Our dataset
-10 consists of 18.899 images with examples of the main diseases
-11 and defects that attack this crop. The images were collected
-12 over 14 months in a real production environment and annotated
-13 by professionals with extensive experience in quality control for
-14 the detection of diseases in this culture. To test the quality
-15 of our dataset we used it to train a SOTA detector obtaining
-16 a final f1-score of 83.7%. We also evaluated the performance
-17 of human specialists in the task of detecting diseases in this
-18 culture, noting that this task is extremely difficult, even for
-19 trained professionals, who obtained a f1-score rating of only
-20 66.1%
+Computer vision, especially approaches based on deep learning, has rapidly advanced to provide solutions to problems in the most diverse domains. However, in the field of fruit production, this advance is still very modest, and one of the main reasons listed in the literature is the lack of large data sets of the desired domain that are in the public domain, which makes it difficult and expensive to conduct new studies. We created a dataset with the aim of leveraging state-of-the-art disease detection in papaya fruits. Our dataset consists of 19.899 images with examples of the main diseases and defects that attack this crop. The images were collected over months in a real production environment and annotated by professionals with extensive experience in quality control for the detection of diseases in this culture. To test the quality of our dataset we used it to train a SOTA detector obtaining a final f1-score of 83.7%. We also evaluated the performance of human specialists in the task of detecting diseases in this culture, noting that this task is extremely difficult, even for trained professionals, who obtained a f1-score rating of only 66.1%
 
 ### Requirements
 - Ubuntu 18
@@ -77,4 +57,5 @@ Send an email to artsoft.lucas@terra.com.br informing:
 <img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Grafico_homemMaquina.png height=400 e width=650>
 
 
-* Overall F1-score = 0.81
+* Overall F1-score of Classifier = 83.7 %
+* Overall F1-score of Expert     = 61,6 %
