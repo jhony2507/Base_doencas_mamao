@@ -26,6 +26,7 @@ Our template is a customization of the original Yolov4 described at https://gith
 -  Description: Complete base composed of 19.899 images with the following class distributions:
 <img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/classes.png height=300 e width=450>
 
+-  Size file   : ~1gb
 ### Annotations
 
 #### Txt Format:
@@ -41,13 +42,19 @@ Our template is a customization of the original Yolov4 described at https://gith
  - y-center: coordenada do eixo y do ponto central do object (in relation to image size)
  - width   : width od object
  - height  : height od object
-       
-The figure below shows an example of this annotation format:
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_TXT.png height=275 e width=351>
+ 
+  The figure below shows an image (a) and the contents of the respective annotation file (b):
+
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_TXT.png height=380 e width=300>
       
 #### COCO Format      
+The instances annotations of each object is composed of a basic data structure that contains a series of fields with information about the image, annotations and classes (categories). The storage in the form of structured records allows using a single json file to store the annotations of an entire data set.
 
- - - Size file   : ~1gb
+  The figure below shows an image (a) and the contents of the respective annotation file (b):
+  
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_COCO.png height=480 e width=350>
+
+ 
 ### License to use and download
 The Sisfrutos dataset is made available free of charge to academic and non-academic entities, such as research, teaching, scientific publications or personal experimentation, on a non-commercial basis. The use of this dataset, in whole or in part, is expressly prohibited for commercial purposes.
 Permission iLicense to use and downloads granted to use the data as long as you agree to our license terms:
