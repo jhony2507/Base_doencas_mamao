@@ -32,10 +32,18 @@ Our template is a customization of the original Yolov4 described at https://gith
  - Each image (.jpg) has its respective .txt file. For example, image TR00001-4.jpg is related to file TR00001-4.txt; 
  - Each line of the .txt file describes an object that appears in the respective image; 
  - The content of each line contains the following data:
- -    <class> <x-center> <y-center> <width> <height>
-      
+   - class x-center y-center width height
+ 
+ where,   
+ 
+ - class   : Id with the object’s class
+ - x-center: coordenada do eixo x do ponto central do object (in relation to image size)
+ - y-center: coordenada do eixo y do ponto central do object (in relation to image size)
+ - width   : width od object
+ - height  : height od object
+       
 The figure below shows an example of this annotation format:
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_TXT.png height=300 e width=450>
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_TXT.png height=275 e width=351>
       
 #### COCO Format      
 
