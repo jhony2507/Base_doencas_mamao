@@ -43,16 +43,16 @@ Our template is a customization of the original Yolov4 described at https://gith
  - width   : width od object
  - height  : height od object
  
-  The figure below shows an image (a) and the contents of the respective annotation file (b):
+  The figure below shows an example. (a)-Image TR00001-4.jpg, (b)-Contents of the TR00001-4.txt file. The first line indicates the location and size of a 'Papaya' object (Id: 0), the second line indicates the coordinates and size of a 'chocolate spot' object (id:4). 
 
 <img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_TXT.png height=380 e width=300>
       
 #### COCO Format      
 The instances annotations of each object is composed of a basic data structure that contains a series of fields with information about the image, annotations and classes (categories). The storage in the form of structured records allows using a single json file to store the annotations of an entire data set.
 
-  The figure below shows an image (a) and the contents of the respective annotation file (b):
+  The figure below show partial annotations in Coco format for image TR00001-4.jpg 
   
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_COCO.png height=480 e width=350>
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Exemplo_anotacao_coco.png height=780 e width=550>
 
  
 ### License to use and download
