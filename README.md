@@ -13,6 +13,7 @@ Download the folder below, it has all the files needed for testing with the mode
 To download the complete dataset, see License to use and download item.
 https://drive.google.com/drive/folders/13A2Dj1Fj8B4aKiAqn1xvUWiKRBBeE15P?usp=sharing
 
+
 Our template is a customization of the original Yolov4 described at https://github.com/AlexeyAB/darknet
 
 #### inference
@@ -72,6 +73,9 @@ Send an email to artsoft.lucas@terra.com.br informing:
 - Office:
 - Linked institution:
 - Search where the dataset will be used.
+
+
+https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_
 
 
 
