@@ -44,7 +44,7 @@ Our template is a customization of the original Yolov4 described at https://gith
 
 ### DataSet
 -  Description: Complete base composed of 19.899 images with the following class distributions:
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/tabela%20classes.png height=300 e width=450>
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/classes.png height=300 e width=450>
 
 
 - Size file   : ~1gb
@@ -71,10 +71,10 @@ Send an email to artsoft.lucas@terra.com.br informing:
 ## Resultados
 
 ## Classifier
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/grafico%20Grafico_resultado.png height=400 e width=650>
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Grafico_resultado.png height=400 e width=650>
 
-## Classifier x human
-<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/grafico%20Grafico_homemMaquina.png height=400 e width=650>
+## Classifier x Expert
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Grafico_homemMaquina.png height=400 e width=650>
 
 
 * Overall F1-score = 0.81
