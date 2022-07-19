@@ -29,7 +29,7 @@ Our template is a customization of the original Yolov4 described at https://gith
 
 - Size file   : ~1gb
 ### License to use and download
-- The Sisfrtos dataset is made available free of charge to academic and non-academic entities, such as research, teaching, scientific publications or personal experimentation, on a non-commercial basis. The use of this dataset, in whole or in part, is expressly prohibited for commercial purposes.
+The Sisfrutos dataset is made available free of charge to academic and non-academic entities, such as research, teaching, scientific publications or personal experimentation, on a non-commercial basis. The use of this dataset, in whole or in part, is expressly prohibited for commercial purposes.
 Permission iLicense to use and downloads granted to use the data as long as you agree to our license terms:
 
 That the dataset is made available "AS IS" without express or implied warranty. In our work, every effort has been made to ensure maximum accuracy, however, we do not accept any responsibility for errors or omissions.
@@ -41,21 +41,21 @@ That you do not distribute this dataset or modified versions. It is permitted to
 That you may not use the dataset or any derivative work for commercial purposes such as, for example, licensing or selling the data, creating commercial applications with trained weights with the model, or otherwise using the data for the purpose of obtaining a commercial gain.
 
 Send an email to artsoft.lucas@terra.com.br informing:
-* Name:
-* Office:
-* Linked institution:
-* Search where the dataset will be used.
+- Name:
+- Office:
+- Linked institution:
+- Search where the dataset will be used.
 
 
 
 ## Resultados
 
-## Classifier
+#### Classifier
 <img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Grafico_resultado.png height=400 e width=650>
 
-## Classifier x Expert
+#### Classifier x Expert
 <img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/Grafico_homemMaquina.png height=400 e width=650>
 
 
 * Overall F1-score of Classifier = 83.7 %
-* Overall F1-score of Expert     = 61,6 %
+* Overall F1-score of Expert     = 66,1 %
