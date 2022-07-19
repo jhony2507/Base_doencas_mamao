@@ -76,8 +76,6 @@ Send an email to artsoft.lucas@terra.com.br informing:
 
 [Sisfrutos](https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_)
 
-https://drive.google.com/drive/folders/1GhCxUPzlfXBJRIXsuwiDwkZY8aNduu1_
-
 
 
 ## Resultados
