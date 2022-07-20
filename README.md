@@ -90,3 +90,11 @@ Send an email to artsoft.lucas@terra.com.br informing:
 
 * Overall F1-score of Classifier = 83.7 %
 * Overall F1-score of Expert     = 66,1 %
+
+# Comments
+
+The poor performance in detecting the Black Spot class surprised us, as it has very striking visual characteristics, which should favor the neural network. Upon further investigation, we detected that the poor performance is related to how, in some cases, the disease was noted in the ground truth. Black spot can occur in several disjoint regions of the fruit (several instances of the “Black Spot” class), but often the evaluator marks a large region of the fruit as being a single instance of that class. This makes the network detect multiple instances of this class outside the ground truth bound box. The images below exemplify this situation.
+
+We are reviewing the notes of this class, and this review, as well as the results will be available on the project page. 
+
+<img src=https://github.com/jhony2507/Base_doencas_mamao/blob/main/wrong_notes.png height=400 e width=650>
